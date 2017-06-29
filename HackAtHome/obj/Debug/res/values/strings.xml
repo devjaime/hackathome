@@ -1,0 +1,1 @@
+<resources><string name="app_name">HackAtHome</string><!-- Activity Login --><string name="hint_email">Correo:</string><string name="hint_password">Contraseña:</string><string name="btn_login">Iniciar Sección</string></resources>

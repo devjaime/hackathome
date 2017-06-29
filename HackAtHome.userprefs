@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4D1AEA60-FFA0-4A51-A1FF-D17E37141AC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackAtHome/Resources/values/Colors.xml">
+    <Files>
+      <File FileName="HackAtHome/MainActivity.cs" Line="9" Column="6" />
+      <File FileName="HackAtHome.SAL/MicrosoftServiceClient.cs" Line="21" Column="94" />
+      <File FileName="HackAtHome/Resources/values/Strings.xml" Line="6" Column="54" />
+      <File FileName="HackAtHome/Resources/values/Colors.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HackAtHome AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.android_4_4_4" />
+  <MultiItemStartupConfigurations />
+</Properties>
